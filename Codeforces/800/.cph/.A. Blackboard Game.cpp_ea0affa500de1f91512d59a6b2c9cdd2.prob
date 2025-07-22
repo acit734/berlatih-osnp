@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"d:\\Mogram\\C++\\OSP Coy\\Codeforces\\800\\A. Blackboard Game.cpp","tests":[{"id":1752735499337,"input":"5\n2\n4\n5\n7\n100","output":"Alice\nBob\nAlice\nAlice\nBob"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Mogram\\C++\\OSP Coy\\Codeforces\\800\\A. Blackboard Game.cpp","group":"local","local":true}
